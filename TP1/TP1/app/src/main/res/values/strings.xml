@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP1</string>
+
+    <string name="hello_world">Bonjour à tous !</string>
+    <string name="Demarrage">Démarrage...</string>
+    <string name="action_menu_sortir">Sortir</string>
+    <string name="msg">voulez-vous vraiment quitter?</string>
+    <string name="message_fr">Bonjour !</string>
+    <string name="message_en">Hello !</string>
+</resources>

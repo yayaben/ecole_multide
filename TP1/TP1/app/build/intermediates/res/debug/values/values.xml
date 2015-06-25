@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/toshiba/Desktop/Chaima/AndroidStudio/TP1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/toshiba/Desktop/Chaima/AndroidStudio/TP1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Demarrage">Démarrage...</string>
+    <string name="action_menu_sortir">Sortir</string>
+    <string name="app_name">TP1</string>
+    <string name="hello_world">Bonjour à tous !</string>
+    <string name="message_en">Hello !</string>
+    <string name="message_fr">Bonjour !</string>
+    <string name="msg">voulez-vous vraiment quitter?</string>
+    <!-- From: file:/C:/Users/toshiba/Desktop/Chaima/AndroidStudio/TP1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

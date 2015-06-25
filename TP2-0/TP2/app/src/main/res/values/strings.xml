@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Déconnexion</string>
+    <string name="title_activity_new_compte">NewCompte</string>
+    <string name="title_activity_saved_compte">SavedCompte</string>
+    <string name="title_activity_exist_compte">ExistCompte</string>
+</resources>

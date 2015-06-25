@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\toshiba\Desktop\Chaima\AndroidStudio\TP3\app\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\toshiba\Desktop\Chaima\AndroidStudio\TP3\app\build\intermediates\pre-dexed\debug\volley-88fb044b464b056935cb6adb9c674530d23b40a0.jar" />
+    </item>
+
+</items>
